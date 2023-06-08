@@ -13,7 +13,7 @@ A simple python code to find all integers `n` for which the expression `(an+b)/(
 
 ## Example
 
-Let's say we want to find integers `n` for the expression `(17n+9)/(4n-5)`.
+Let's say we want to find integers `n` for the expression `(17n+19)/(4n-5)`.
 
 Running the code and entering `a = 17`, `b = 19`, `c = 4`, and `d = -5`, we will get the following result:
 [-39, 1, 3, 7]
